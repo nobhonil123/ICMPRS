@@ -67,9 +67,6 @@ ICMPRS/
 ├── data/                         # Generated CSVs (not tracked by Git)
 ├── results/                      # Output tables and metrics (not tracked)
 ├── figures/                      # Paper figures (vector PDFs)
-├── manuscript/
-│   ├── main.tex                  # Full IEEE JBHI LaTeX manuscript (v30)
-│   └── references.bib
 ├── .github/workflows/ci.yml      # Continuous integration
 ├── requirements.txt
 ├── setup.py
