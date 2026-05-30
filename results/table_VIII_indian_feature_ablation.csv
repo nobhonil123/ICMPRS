@@ -1,0 +1,8 @@
+configuration,acc_pct,sensitivity_pct,auc
+Full (5 Indian),97.4,98.4,0.987
+w/o RCA,95.7,96.6,0.971
+w/o NRE,96.6,97.5,0.979
+w/o DPLD,95.3,96.1,0.967
+w/o AJHI,96.3,97.2,0.976
+w/o BSV,96.0,96.8,0.973
+w/o all 5,89.6,90.6,0.929

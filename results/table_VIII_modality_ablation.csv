@@ -1,0 +1,8 @@
+configuration,acc_pct,sensitivity_pct,auc
+Voice only,87.6,85.8,0.903
+Handwriting only,85.3,84.2,0.886
+Gait only,81.5,80.6,0.851
+Voice+Writing,93.6,94.1,0.959
+Voice+Gait,92.7,93.2,0.953
+Writing+Gait,90.4,90.8,0.934
+All three (CGMS-A),97.4,98.4,0.987

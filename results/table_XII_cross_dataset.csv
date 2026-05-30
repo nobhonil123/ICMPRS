@@ -1,0 +1,7 @@
+dataset,n,acc_pct,sens_pct,spec_pct,auc
+UCI Voice,195,91.8,92.4,91.5,0.948
+mPower,2154,83.6,85.2,82.4,0.892
+1D-CNN UCI Voice,195,90.2,91.6,89.5,0.938
+1D-CNN mPower,2154,82.1,83.8,80.9,0.88
+ICMPRS synthetic (57 generic),1995,89.6,90.6,88.7,0.929
+ICMPRS synthetic (all 62),1995,97.4,98.4,96.3,0.987
